@@ -1,6 +1,7 @@
-# Project Name
+# Employment Trends in a Changing Economy
 
-A brief description of your project goes here. Explain what the project does, its features, and any other relevant information.
+  - Analyzing Employment Projections Pre- and Post-Pandemic (2019-2029 vs. 2023-2033)
+  - Visualizing the Skill requirements for a particular Job Oppertunities
 
 ## Table of Contents
 
